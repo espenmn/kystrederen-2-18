@@ -1,0 +1,27 @@
+{
+   "appconfig" : {},
+   "duration" : "10",
+   "issues" : [
+      {
+         "appleId" : "",
+         "bundle" : "20190408T160202Z",
+         "bundleSize" : 1,
+         "description" : "Html5",
+         "id" : "urn:uuid:quark:html5:Kystrederen_2_ferdig_2018:publication",
+         "isFree" : true,
+         "lastPublishedDate" : "2019-04-08T16:02:27Z",
+         "media:content" : [],
+         "media:thumbnail" : [],
+         "minimumAppVersion" : "1.0.0",
+         "previews" : {},
+         "publishedDate" : "2019-04-08T16:02:27Z",
+         "subtitle" : "Html5",
+         "tabletIssuePath" : "Html5",
+         "thumbnails" : {},
+         "title" : "Kystrederen 2 ferdig 2018"
+      }
+   ],
+   "name" : "Web Reader",
+   "published" : "2019-04-08T16:02:27Z",
+   "version" : "1.0"
+}

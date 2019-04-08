@@ -1,0 +1,608 @@
+{
+   "contents" : [
+      {
+         "abstract" : null,
+         "author" : null,
+         "id" : "Kystrederen_2_ferdig_2018",
+         "series" : null,
+         "socialComment" : null,
+         "socialImageUrl" : null,
+         "socialUrl" : null,
+         "tags" : null,
+         "title" : "",
+         "titleHtml" : "Kystrederen 2 ferdig 2018",
+         "type" : "article"
+      }
+   ],
+   "id" : "urn:uuid:quark:html5:Kystrederen_2_ferdig_2018:publication",
+   "media" : null,
+   "publishedDate" : "2019-04-08T16:02:27Z",
+   "subtitle" : null,
+   "title" : "Kystrederen 2 ferdig 2018",
+   "variants" : [
+      {
+         "fontSize" : "16",
+         "height" : "842",
+         "orientation" : "portrait",
+         "pages" : [
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "1"
+                  }
+               ],
+               "id" : "1",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait1_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "1",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait1_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait1.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "2"
+                  }
+               ],
+               "id" : "2",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait2_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "2",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait2_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait2.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "3"
+                  }
+               ],
+               "id" : "3",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait3_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "2",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait3_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait3.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "4"
+                  }
+               ],
+               "id" : "4",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait4_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "3",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait4_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait4.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "5"
+                  }
+               ],
+               "id" : "5",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait5_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "3",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait5_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait5.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "6"
+                  }
+               ],
+               "id" : "6",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait6_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "4",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait6_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait6.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "7"
+                  }
+               ],
+               "id" : "7",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait7_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "4",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait7_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait7.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "8"
+                  }
+               ],
+               "id" : "8",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait8_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "5",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait8_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait8.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "9"
+                  }
+               ],
+               "id" : "9",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait9_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "5",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait9_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait9.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "10"
+                  }
+               ],
+               "id" : "10",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait10_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "6",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait10_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait10.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "11"
+                  }
+               ],
+               "id" : "11",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait11_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "6",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait11_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait11.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "12"
+                  }
+               ],
+               "id" : "12",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait12_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "7",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait12_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait12.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "13"
+                  }
+               ],
+               "id" : "13",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait13_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "7",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait13_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait13.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "14"
+                  }
+               ],
+               "id" : "14",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait14_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "8",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait14_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait14.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "15"
+                  }
+               ],
+               "id" : "15",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait15_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "8",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait15_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait15.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "16"
+                  }
+               ],
+               "id" : "16",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait16_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "9",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait16_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait16.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "17"
+                  }
+               ],
+               "id" : "17",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait17_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "9",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait17_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait17.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "18"
+                  }
+               ],
+               "id" : "18",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait18_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "10",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait18_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait18.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "19"
+                  }
+               ],
+               "id" : "19",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait19_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "10",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait19_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait19.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "20"
+                  }
+               ],
+               "id" : "20",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait20_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "11",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait20_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait20.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "21"
+                  }
+               ],
+               "id" : "21",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait21_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "12",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait21_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait21.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "22"
+                  }
+               ],
+               "id" : "22",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait22_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "12",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait22_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait22.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "23"
+                  }
+               ],
+               "id" : "23",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait23_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "13",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait23_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait23.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "24"
+                  }
+               ],
+               "id" : "24",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait24_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "13",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait24_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait24.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "25"
+                  }
+               ],
+               "id" : "25",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait25_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "14",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait25_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait25.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "26"
+                  }
+               ],
+               "id" : "26",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait26_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "14",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait26_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait26.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "27"
+                  }
+               ],
+               "id" : "27",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait27_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "15",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait27_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait27.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "28"
+                  }
+               ],
+               "id" : "28",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait28_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "15",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait28_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait28.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "29"
+                  }
+               ],
+               "id" : "29",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait29_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "16",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait29_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait29.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "30"
+                  }
+               ],
+               "id" : "30",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait30_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "16",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait30_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait30.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "31"
+                  }
+               ],
+               "id" : "31",
+               "pagePosition" : "LEFTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait31_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "17",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait31_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait31.html"
+            },
+            {
+               "contents" : [
+                  {
+                     "href" : "#Kystrederen_2_ferdig_2018",
+                     "pageRef" : "32"
+                  }
+               ],
+               "id" : "32",
+               "pagePosition" : "RIGHTOFSPINE",
+               "preview1024" : "article/Layout_1_Kopi_(V)/assets/portrait32_preview.jpeg",
+               "properties" : {
+                  "height" : "842",
+                  "width" : "595"
+               },
+               "spreadId" : "17",
+               "thumbnail" : "article/Layout_1_Kopi_(V)/assets/portrait32_preview.jpeg",
+               "url" : "article/Layout_1_Kopi_(V)/portrait32.html"
+            }
+         ],
+         "width" : "595"
+      }
+   ]
+}
