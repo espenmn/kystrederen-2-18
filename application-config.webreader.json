@@ -4,17 +4,17 @@
    "issues" : [
       {
          "appleId" : "",
-         "bundle" : "20190409T095639Z",
+         "bundle" : "20190409T100059Z",
          "bundleSize" : 1,
          "description" : "Html5",
          "id" : "urn:uuid:quark:html5:Kystrederen_2_ferdig_2018:publication",
          "isFree" : true,
-         "lastPublishedDate" : "2019-04-09T09:57:06Z",
+         "lastPublishedDate" : "2019-04-09T10:01:26Z",
          "media:content" : [],
          "media:thumbnail" : [],
          "minimumAppVersion" : "1.0.0",
          "previews" : {},
-         "publishedDate" : "2019-04-09T09:57:06Z",
+         "publishedDate" : "2019-04-09T10:01:26Z",
          "subtitle" : "Html5",
          "tabletIssuePath" : "Html5",
          "thumbnails" : {},
@@ -22,6 +22,6 @@
       }
    ],
    "name" : "Web Reader",
-   "published" : "2019-04-09T09:57:06Z",
+   "published" : "2019-04-09T10:01:26Z",
    "version" : "1.0"
 }
